@@ -198,3 +198,6 @@ The final Power BI dashboard provides an interactive view of website marketing p
 The project demonstrates how raw web analytics data can be transformed into meaningful business insights using Power BI and DAX.
 # Web-Marketing-Performance-Analysis
 Web Marketing Performance Analysis using Power BI, DAX, Power Query and Excel
+
+<img width="904" height="499" alt="Web_markrting_SS" src="https://github.com/user-attachments/assets/96d5c449-e904-41c0-a29e-5594413d9e51" />
+
